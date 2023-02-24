@@ -1,3 +1,9 @@
 {
-  "applicationName": "MyApp"
+  "applicationName": "Neo4j",
+  "dbConfig": {
+    "uri": "neo4j://localhost:7687",
+    "dbName": "db",
+    "username": "neo4j",
+    "password": "neo4j"
+  }
 }
